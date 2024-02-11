@@ -17,8 +17,8 @@ function Projects() {
 
       {myData.map((data) => (
         <Link to={data.link} target="_blank" rel="noopener noreferrer">
-          <div class="container flex space-x-4 p-4 outline outline-[1px] outline-gray-300 rounded-sm my-4 hover:shadow-xl hover:outline-ds-green-2">
-            <img class="min-w-52 max-w-60 min-h-12 max-h-36 object-cover" src={data.photo} alt={data.name} />
+          <div class="container flex flex-col md:flex-row space-y-2 md:space-y-0 md:space-x-4 p-4 outline outline-[1px] outline-gray-300 rounded-sm my-4 hover:shadow-xl hover:outline-ds-green-2">
+            <img class="max-h-32 md:min-w-52 md:max-w-60 md:min-h-12 md:max-h-36 object-cover" src={data.photo} alt={data.name} />
             <div class="flex-col space-y-1">
               <h2 class="font-bold text-md">{data.name}</h2>
               <div class="flex">

@@ -15,32 +15,32 @@ function Resume() {
       <div class="my-6">
         <h1 class="font-bold text-2xl text-ds-green-2">Work Experiences</h1>
         <div class="mt-4">
-          <div class="flex justify-between">
+          <div class="flex flex-col md:flex-row justify-between">
             <h2 class="text-md font-[700]">BnP at ShopeeFood</h2>
             <p class="text-xs">May 2023 - Present</p>
           </div>
-          <p class="text-sm">Led ShopeeFood service quality, optimizing completion time, balancing demand and supply, and conducting data analysis for reliability improvement.</p>
+          <p class="text-sm mt-1">Led ShopeeFood service quality, optimizing completion time, balancing demand and supply, and conducting data analysis for reliability improvement.</p>
         </div>
         <div class="mt-4">
-          <div class="flex justify-between">
+          <div class="flex flex-col md:flex-row justify-between">
             <h2 class="text-md font-[700]">Data Analyst at Inspigo</h2>
             <p class="text-xs">Dec 2021 - May 2023</p>
           </div>
-          <p class="text-sm">Conducted data analysis, communicated insights on product and marketing metrics, led data projects, implemented dashboards, and enhanced activation and engagement rates.</p>
+          <p class="text-sm mt-1">Conducted data analysis, communicated insights on product and marketing metrics, led data projects, implemented dashboards, and enhanced activation and engagement rates.</p>
         </div>
         <div class="mt-4">
-          <div class="flex justify-between">
+          <div class="flex flex-col md:flex-row justify-between">
             <h2 class="text-md font-[700]">Business Analyst at DBS Bank</h2>
             <p class="text-xs">Jan 2021 - Dec 2021</p>
           </div>
-          <p class="text-sm">Generated reports for DBS digital banking, covering transactions and user cohorts. Planned, implemented, and maintained dashboards for business and product teams.</p>
+          <p class="text-sm mt-1">Generated reports for DBS digital banking, covering transactions and user cohorts. Planned, implemented, and maintained dashboards for business and product teams.</p>
         </div>
       </div>
 
       <div class="my-12">
         <h1 class="font-bold text-2xl text-ds-green-2">Education</h1>
         <div class="mt-4">
-          <div class="flex justify-between">
+          <div class="flex flex-col md:flex-row justify-between">
             <h2 class="text-md font-[700]">Bandung Institute of Technology</h2>
             <p class="text-xs">Aug 2015 - Oct 2019</p>
           </div>

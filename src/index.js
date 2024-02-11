@@ -14,7 +14,7 @@ root.render(
   <Router>
     <div class="container mx-auto max-w-2xl font-ibm text-gray-700">
       <Blob />
-      <div class="mt-24 shadow-xl p-8 rounded-xl">
+      <div class="mt-24 mx-5 mb-12 lg:mx-0 shadow-xl p-6 lg:p-8 rounded-xl">
         <Routes>
           <Route exact path="/" element={<App />} />
           <Route exact path="/projects" element={<Projects />} />
