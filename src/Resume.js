@@ -53,15 +53,15 @@ function Resume() {
         <div class="mt-4">
           <h2 class="text-md font-[700]">Skills</h2>
           <p class="text-sm">
-            data analysis, data visualization, dashboarding, data mining, data modeling, statistics, statistical analysis, A/B testing, root cause analysis, presentation, reporting, graphic design, UI/UX design, prototyping, project
-            management
+            data analysis, data visualization, dashboarding, data mining, data scraping, data, cleaning, data modeling, statistics, statistical analysis, A/B testing, root cause analysis, presentation, reporting, graphic design, UI/UX
+            design, prototyping, project management
           </p>
         </div>
         <div class="mt-4">
           <h2 class="text-md font-[700]">Programming Language</h2>
           <ul class="text-sm list-disc">
             <li class="ml-6">SQL : PostgreSQL, MySQL, SQLite, Presto</li>
-            <li class="ml-6">Python : pandas, NumPy, Matplotlib, seaborn, Plotly, scikit-learn, Flask, Streamlit, Beautiful Soup</li>
+            <li class="ml-6">Python : pandas, NumPy, Matplotlib, seaborn, Plotly, scikit-learn, Flask, Streamlit, Beautiful Soup, Scrapy</li>
           </ul>
         </div>
         <div class="mt-4">

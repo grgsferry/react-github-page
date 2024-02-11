@@ -9,8 +9,8 @@ function App() {
       <h1 class="font-bold text-4xl">Hello!</h1>
       <div class="mt-4">
         <p>
-          My name is <span class="font-bold">Gregorius Ferry</span>. I am a data analyst, a data visualization engineer, and an information designer. I graduated from Bandung Institute of Technology with an engineering major. Currently I
-          am:
+          My name is <span class="font-bold">Gregorius Ferry</span>. I am a data analyst and business intelligence expert with 3+ years of professional experience. I graduated from Bandung Institute of Technology with an engineering major.
+          Currently I am:
         </p>
         <ul class="my-2 list-disc">
           <li class="ml-6">Working in one of Indonesia's largest delivery apps</li>
